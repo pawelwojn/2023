@@ -1,0 +1,27 @@
+<html>
+<head>
+<style>
+body {
+  background-color: #DDDDDD;
+}
+</style>
+<body>
+<font face="Calibri">
+<table cellpadding="5" cellspacing="0">
+
+<tr><td><font style="font-size: 24pt"><b>1</b></td><td><img src="https://cdn.music.smcloud.net/t/covers/The-Black-Pearl_so-mWej-XmXh-cNCH_cover.jpg" width="50px"></td><td><b>THE BLACK PEARL</b><br>SCOTTY</td><td><audio controls><source src="https://cdn.music.smcloud.net/t/hooks/The-Black-Pearl_so-mWej-XmXh-cNCH_hook.mp3" type="audio/ogg"></audio></td></tr>
+<tr><td><font style="font-size: 24pt"><b>2</b></td><td><img src="https://cdn.music.smcloud.net/t/covers/Hot_so-B1d5-bhuu-Z1hu_cover.jpg" width="50px"></td><td><b>HOT</b><br>INNA</td><td><audio controls><source src="https://cdn.music.smcloud.net/t/hooks/Hot_so-B1d5-bhuu-Z1hu_hook.mp3" type="audio/ogg"></audio></td></tr>
+<tr><td><font style="font-size: 24pt"><b>3</b></td><td><img src="" width="50px"></td><td><b></b><br></td><td><audio controls><source src="" type="audio/ogg"></audio></td></tr>
+<tr><td><font style="font-size: 24pt"><b>4</b></td><td><img src="https://cdn.music.smcloud.net/t/covers/Sexy-Bitch_so-ebrQ-Hypu-YnWr_cover.jpg" width="50px"></td><td><b>SEXY BITCH</b><br>DAVID GUETTA, AKON</td><td><audio controls><source src="https://cdn.music.smcloud.net/t/hooks/Sexy-Bitch_so-ebrQ-Hypu-YnWr_hook.mp3" type="audio/ogg"></audio></td></tr>
+<tr><td><font style="font-size: 24pt"><b>5</b></td><td><img src="" width="50px"></td><td><b></b><br></td><td><audio controls><source src="" type="audio/ogg"></audio></td></tr>
+<tr><td><font style="font-size: 24pt"><b>6</b></td><td><img src="" width="50px"></td><td><b></b><br></td><td><audio controls><source src="" type="audio/ogg"></audio></td></tr>
+<tr><td><font style="font-size: 24pt"><b>7</b></td><td><img src="" width="50px"></td><td><b></b><br></td><td><audio controls><source src="" type="audio/ogg"></audio></td></tr>
+<tr><td><font style="font-size: 24pt"><b>8</b></td><td><img src="https://cdn.music.smcloud.net/t/covers/Do-It-All-Night_so-djhR-Qmur-szih_cover.jpg" width="50px"></td><td><b>DO IT ALL NIGHT</b><br>DARIUS, FINLAY</td><td><audio controls><source src="https://cdn.music.smcloud.net/t/hooks/Do-It-All-Night_so-djhR-Qmur-szih_hook.mp3" type="audio/ogg"></audio></td></tr>
+<tr><td><font style="font-size: 24pt"><b>9</b></td><td><img src="https://cdn.music.smcloud.net/t/covers/Poker-Face_so-7G31-YkZU-6j5w_cover.jpg" width="50px"></td><td><b>POKER FACE</b><br>LADY GAGA</td><td><audio controls><source src="https://cdn.music.smcloud.net/t/hooks/Poker-Face_so-7G31-YkZU-6j5w_hook.mp3" type="audio/ogg"></audio></td></tr>
+<tr><td><font style="font-size: 24pt"><b>10</b></td><td><img src="" width="50px"></td><td><b></b><br></td><td><audio controls><source src="" type="audio/ogg"></audio></td></tr>
+
+</table>
+</font>
+</body>
+</head>
+</html>
